@@ -1,0 +1,12 @@
+vpc_id                    = "vpc-9c860de1"
+environment               = "-dev"
+git_revision              = "2031bc4c335b2393aa1e308ac05c0528a98ce43b" # random revison for latest commit as of 5/21/21
+instance_type             = "t2.small"
+api_url                   = "https://api.creativecommons.engineering/v1/"
+sentry_dsn                = "https://53da8fbcebeb48a6bf614a212629df6b@o787041.ingest.sentry.io/5799642"
+social_sharing_enabled    = "false"
+staging_environment       = "dev"
+redis_url                 = ""
+enable_google_analytics   = "true"
+google_analytics_ua       = "UA-2010376-36"
+enable_internal_analytics = "true"
